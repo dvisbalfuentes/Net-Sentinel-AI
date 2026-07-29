@@ -1,0 +1,6 @@
+# Compiled executables
+net_sentinel
+run_tests
+
+# Mac system files
+.DS_Store
