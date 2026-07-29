@@ -16,6 +16,7 @@ Net-Sentinel AI is an enterprise-grade telemetry ingestion engine. Built in C++ 
 * **Python 3:** Data generation and probability simulation.
 
 ## Architecture:
+```text
 Net-Sentinel-AI/
 │
 ├── .gitignore                # Git exclusion rules
