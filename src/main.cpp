@@ -15,7 +15,7 @@ int main()
         std::cout << "ERROR: Could not open traffic_log.txt. Did you run the Python script?" << std::endl;
         return 1; 
     }
-    std::cout << "Ingesting Netowrk Traffic..." << std::endl;
+    std::cout << "Ingesting Netowork Traffic..." << std::endl;
     std::string currentLine; 
     while(std::getline(logFile, currentLine))
     {
